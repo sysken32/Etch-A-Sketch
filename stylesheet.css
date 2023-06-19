@@ -15,7 +15,7 @@ html{
 }
 
 .title{
-    color: white;
+    color: rgb(155, 249, 244);
     font-size: 30px;
     text-shadow: 2px 2px #e4e4e4;
 }
@@ -33,7 +33,7 @@ html{
     border: solid #e0c3fc;
 }
 
-.black, .random, .colorBtn, .eraser, .reset, .color {
+.black, .colorBtn, .eraser, .reset, .color, .small, .medium, .big{
     margin-top: 10px;
     font-family: JetBrains Mono;
     font-size: 16px;
@@ -96,6 +96,8 @@ html{
     padding: 1em;
     border: 1px solid black;
     text-align: center;
+    max-width: auto;
+    max-height: auto;
 }
 
 #color-image {
@@ -116,3 +118,4 @@ html{
     background-color: white;
     border: solid 2px #e0c3fc;
 }
+
