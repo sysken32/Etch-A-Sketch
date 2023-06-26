@@ -1,4 +1,4 @@
-# theodinproject-etch-a-sketch
+# Etch-A-Sketch
 <h2>About This Project</h2>
 <p>A demo of this project can be experienced here: https://sysken32.github.io/Etch-A-Sketch/</p>
 <h3>Here's how to play 👇</h3>
